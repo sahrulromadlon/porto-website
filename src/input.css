@@ -28,7 +28,7 @@
 }
 
 @layer utilities {
- .hamburger-line {
+  .hamburger-line {
     @apply w-6 h-0.5 my-1 block bg-white transition-all duration-300 ease-in-out origin-center;
   }
 
